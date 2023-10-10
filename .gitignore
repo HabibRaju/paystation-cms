@@ -1,0 +1,15 @@
+.env
+.phpunit.result.cache
+.idea/
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/public/hot
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+package-lock.json
+vite.config.js
